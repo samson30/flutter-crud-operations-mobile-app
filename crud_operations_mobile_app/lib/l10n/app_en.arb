@@ -1,0 +1,30 @@
+{
+  "@@locale": "en",
+  "appTitle": "Employee Manager",
+  "enrollEmployee": "Enroll Employee",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "dob": "Date of Birth",
+  "role": "Role",
+  "roleDescription": "Role Description",
+  "create": "Create",
+  "clearAll": "Clear All Fields",
+  "requiredField": "Required",
+  "employeeCreated": "Employee created successfully!",
+  "employeeDetailsUpdated": "Employee details updated successfully!",
+  "toastError": "Something went wrong!",
+  "employeeDetails": "Employee Details",
+  "edit": "Edit",
+  "delete": "Delete",
+  "employeeDeleted": "The employee has been deleted",
+  "cancel": "Cancel",
+  "employeeDeletionConfirmationText":"Are you sure you want to delete this employee?",
+  "deletionConfirmationHeader":"Confirm Deletion",
+  "email":"Email",
+  "phoneNumber":"Phone Number",
+  "validEmailError":"Enter valid email",
+  "validIrishPhoneNumberError":"Enter a valid Irish number (e.g., 0861234567 or +353861234567).",
+  "updateEmployee":"Update Employee"
+
+
+}
